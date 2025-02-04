@@ -11,18 +11,17 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Documentation",
         "groups": [
           {
             "group": "Get Started",
             "pages": [
               "introduction",
-              "quickstart",
-              "development"
+              "quickstart"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Product deep dive",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -35,7 +34,7 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "Changelog",
         "groups": [
           {
             "group": "API Documentation",
@@ -52,23 +51,23 @@
             ]
           }
         ]
+      },
+       {
+        "tab": "FAQs",
+        "groups": [
+        ]
       }
     ],
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "anchor": "Discord",
+          "href": "https://21n.org",
+          "icon": "discord"
         },
         {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://blog.21n.org",
           "icon": "newspaper"
         }
       ]
@@ -81,21 +80,20 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Contact us",
+        "href": "mailto:hello@21n.org"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Go to app",
+      "href": "https://web.pointron.app"
     }
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/@PointronApp",
+      "linkedin": "https://linkedin.com/company/21n"
     }
   }
 }
