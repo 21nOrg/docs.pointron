@@ -1,35 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "name": "Pointron",
-   "theme": {
-    "colors": {
-      "primary": "#2563EB",
-      "light": "#3B82F6",
-      "dark": "#1D4ED8",
-      "background": {
-        "dark": "#111827",
-        "light": "#ffffff"
-      },
-      "text": {
-        "dark": "#ffffff",
-        "light": "#111827"
-      }
-    },
-    "typography": {
-      "font": "Inter",
-      "headings": {
-        "font": "Cal Sans"
-      }
-    },
-    "sidebar": {
-      "backgroundColor": "#f8fafc",
-      "textColor": "#334155"
-    },
-    "codeBlock": {
-      "backgroundColor": "#1e293b",
-      "textColor": "#e2e8f0"
-    }
-  },
+   "theme": "maple",
   "colors": {
     "primary": "#2563EB",
     "light": "#3B82F6",   
