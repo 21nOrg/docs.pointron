@@ -55,6 +55,12 @@
        {
         "tab": "FAQs",
         "groups": [
+           {
+            "group": "API Documentation",
+            "pages": [
+              "api-reference/introduction"
+            ]
+          }
         ]
       }
     ],
