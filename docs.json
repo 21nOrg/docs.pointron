@@ -1,10 +1,10 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "name": "Pointron",
-   "theme": "mint",
+  "theme": "mint",
   "colors": {
     "primary": "#2563EB",
-    "light": "#3B82F6",   
+    "light": "#3B82F6",
     "dark": "#1D4ED8"
   },
   "favicon": "/favicon.svg",
@@ -15,10 +15,7 @@
         "groups": [
           {
             "group": "Get Started",
-            "pages": [
-              "introduction",
-              "quickstart"
-            ]
+            "pages": ["introduction", "quickstart"]
           },
           {
             "group": "Product deep dive",
@@ -38,9 +35,7 @@
         "groups": [
           {
             "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
+            "pages": ["api-reference/introduction"]
           },
           {
             "group": "Endpoint Examples",
@@ -52,14 +47,12 @@
           }
         ]
       },
-       {
+      {
         "tab": "FAQs",
         "groups": [
-           {
+          {
             "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
+            "pages": ["api-reference/introduction"]
           }
         ]
       }
@@ -80,8 +73,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/docs-light.svg",
+    "dark": "/logo/docs-dark.svg"
   },
   "navbar": {
     "links": [
