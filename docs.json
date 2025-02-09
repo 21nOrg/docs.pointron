@@ -14,13 +14,13 @@
         "tab": "Documentation",
         "groups": [
           {
-            "group": "Get Started",
-            "pages": ["introduction", "quickstart"]
+            "group": "Getting started",
+            "pages": ["main/intro/introduction", "main/intro/installation"]
           },
           {
             "group": "Product deep dive",
             "pages": [
-              "essentials/markdown"
+              "main/product/core"
             ]
           }
         ]
@@ -29,8 +29,17 @@
         "tab": "Changelog",
         "groups": [
           {
-            "group": "Versions",
-            "pages": ["changelog/soon"]
+            "group": "",
+            "pages": ["changelog/new"]
+          }
+        ]
+      },
+      {
+        "tab": "Roadmap",
+        "groups": [
+          {
+            "group": "",
+            "pages": ["roadmap/next", "roadmap/full"]
           }
         ]
       },
