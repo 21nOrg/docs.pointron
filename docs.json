@@ -29,7 +29,7 @@
         "tab": "Changelog",
         "groups": [
           {
-            "group": "",
+            "group": " ",
             "pages": ["changelog/new"]
           }
         ]
@@ -38,7 +38,7 @@
         "tab": "Roadmap",
         "groups": [
           {
-            "group": "",
+            "group": " ",
             "pages": ["roadmap/next", "roadmap/full"]
           }
         ]
