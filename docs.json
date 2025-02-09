@@ -20,12 +20,7 @@
           {
             "group": "Product deep dive",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "essentials/markdown"
             ]
           }
         ]
@@ -34,16 +29,8 @@
         "tab": "Changelog",
         "groups": [
           {
-            "group": "API Documentation",
-            "pages": ["api-reference/introduction"]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete"
-            ]
+            "group": "Versions",
+            "pages": ["changelog/soon"]
           }
         ]
       },
@@ -51,8 +38,8 @@
         "tab": "FAQs",
         "groups": [
           {
-            "group": "API Documentation",
-            "pages": ["api-reference/introduction"]
+            "group": "FAQs",
+            "pages": ["changelog/soon"]
           }
         ]
       }
