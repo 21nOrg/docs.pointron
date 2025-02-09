@@ -15,7 +15,7 @@
         "groups": [
           {
             "group": "Getting started",
-            "pages": ["main/intro/introduction", "main/intro/installation"]
+            "pages": ["introduction", "main/intro/installation"]
           },
           {
             "group": "Product deep dive",
