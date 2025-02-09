@@ -39,7 +39,7 @@
         "groups": [
           {
             "group": "Roadmap",
-            "pages": ["roadmap/next", "roadmap/full"]
+            "pages": ["next", "full"]
           }
         ]
       },
