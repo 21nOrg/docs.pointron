@@ -21,7 +21,8 @@
             "group": "Product deep dive",
             "pages": [
               "main/product/core",
-              "lib/collections"
+              "lib/collections",
+              "main/product/features/tasks"
             ]
           }
         ]
