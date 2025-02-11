@@ -20,7 +20,8 @@
           {
             "group": "Product deep dive",
             "pages": [
-              "main/product/core"
+              "main/product/core",
+              "lib/collections"
             ]
           }
         ]
